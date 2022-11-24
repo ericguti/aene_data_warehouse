@@ -18,3 +18,5 @@ Datos de google trends
 Datos estadisticos de casos covid
 
 - covid_es.csv -> datos de num_contagios, muertes, hospitales y ucis por provincia sexo y grupo de edad en españa
+
+- covid_es_diario -> datos de covid diarios agregados
