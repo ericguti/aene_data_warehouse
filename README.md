@@ -20,3 +20,7 @@ Datos estadisticos de casos covid
 - covid_es.csv -> datos de num_contagios, muertes, hospitales y ucis por provincia sexo y grupo de edad en españa
 
 - covid_es_diario -> datos de covid diarios agregados
+
+### Correlation
+
+Matrices de correlación con desfase en días entre los casos de covid y las búsquedas de términos. El desfase es de los casos respecto a la búsqueda de las palabras
